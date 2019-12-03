@@ -87,6 +87,14 @@ import MediaControls, { PLAYER_STATES } from 'react-native-media-controls';
   ENDED,
 ```
 
+## Future Plans
+
+- [ ] Refactoring (Coming Soon!)
+- [ ] Better README (Coming Soon!)
+- [ ] Better Example (Coming Soon!)
+- [ ] More Customizable Options
+- [ ] Typescript Challenge!
+
 ## License
 
 React Native Media Controls Library is available under the MIT license. See the LICENSE file for more info.
