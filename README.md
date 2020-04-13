@@ -19,7 +19,9 @@ This is an original fork of [React Native Media Controls](https://github.com/cha
 ```ruby
 npm i @freakycoder/react-native-media-controls
 ```
-
+```ruby
+npm i @react-native-community/slider 
+```
 ## Usage
 
 You can check the example for a fully working example
