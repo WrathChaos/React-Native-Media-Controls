@@ -10,7 +10,7 @@
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-This is an original fork of [React Native Media Controls](https://github.com/charliesbot/react-native-media-controls) (Not actively maintained)
+This is an original fork of [React Native Media Controls](https://github.com/charliesbot/react-native-media-controls) (Actively maintained)
 
 ![mediac](https://cloud.githubusercontent.com/assets/10927770/16887015/3380f59a-4a9d-11e6-9e3f-8d1ca29aea03.gif)
 
